@@ -1,0 +1,27 @@
+*{
+   
+    color: purple;
+    /* font-size: 100px; */
+
+}
+
+h1{
+    color:salmon;
+
+}
+span{
+    color: skyblue;
+}
+.contacted{
+    color: tan;
+}
+
+#school{
+    color: tomato;
+}
+.child>div{
+    color: cyan;
+}
+input[type="text"]{
+    width: 700px;
+}w2W2W2SWZA\
